@@ -1,4 +1,5 @@
- entry point of the command interpreter."""
+#!/usr/bin/python3
+""" Defines entry point of the command interpreter."""
 import cmd
 import re
 from shlex import split
